@@ -1,9 +1,0 @@
-<<<<<<< .merge_file_BuSs6a
-<<<<<<< .merge_file_dgDE3b
-ttttttttsome more data wrtgwrtgwrtgwrtgwfor the file
-=======
-hhhhhhhhhhsome more data wrtgwrtgwrtgwrtgwfor the file
->>>>>>> .merge_file_kpzMbE
-=======
-ttttttttsome more data wrtgwrtgwrtgwrtgwfor the file
->>>>>>> .merge_file_0hCAJJ
