@@ -1,1 +1,5 @@
-some more data wrtgwrtgwrtgwrtgwfor the file
+<<<<<<< .merge_file_dgDE3b
+ttttttttsome more data wrtgwrtgwrtgwrtgwfor the file
+=======
+hhhhhhhhhhsome more data wrtgwrtgwrtgwrtgwfor the file
+>>>>>>> .merge_file_kpzMbE
